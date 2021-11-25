@@ -1,0 +1,4 @@
+Tag located 1 meter away from the spectrum analyser
+Carrer generator located approx 6-8 meter away from the tag
+Carrier genenrator at frequency of 864.5 Mhz
+Backscatter signal 865.5 MHz

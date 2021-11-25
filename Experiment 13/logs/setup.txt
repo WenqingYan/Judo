@@ -1,0 +1,6 @@
+Expeirment setup:
+
+Carrier generator located non line of sight approx 10 meter away from TDO. TDO locked inside the room.
+
+Receiver located non line of sight approx 10 meter away from TDO, non line of sight.
+

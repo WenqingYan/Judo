@@ -1,0 +1,10 @@
+Baseband signal: Mix sinusoidal signal with tunnel diode oscillator 
+P-P: 250 mV
+Vary frequency
+I1: 100k
+I2: 250k
+I3: 500k
+I4: 1000k
+I5: 2500k
+i6: 5000k
+i7: 10000k

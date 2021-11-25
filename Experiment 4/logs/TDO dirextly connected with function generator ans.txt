@@ -1,0 +1,1 @@
+TDO dirextly connected with function generator ans that is connected to spectrum analyser. We varied the mixing signal amplitiude. The singal being mixed is located 1 MHz away. 

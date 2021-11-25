@@ -1,0 +1,30 @@
+Baseband signal: square vs sinusoidal on the spectrum
+Three different voltages
+
+Experiment 2:
+
+I1: Square signal, 35 MHz spectrum captured
+P-P voltage: 50mv
+
+I2: Square signal, 10 MHz spectrum captured
+P-P voltage: 50mv
+
+I3: Sinusoidal signal, 2 MHz spectrum captured
+P-P: Voltage: 50 mV
+
+i4: Sinusoidal signal, 10 MHz spectrum captured
+P-P voltage: 50 mV
+
+i5: Sinusoidal singla, 2 MHz spectrum
+P-P Voltage: 250 mV
+
+i6: Sinusoidal signal, 10 MHz spectrum captured
+P-P voltage: 250 mV
+
+i7: Square signal, 35 Mhz spectrum
+P-P: Voltage 250 mV
+
+i8: Square signal, 10 Mhz spectrum
+P-P: Voltage 250 mV
+
+Square signal fed into TDO becomes extremely unstable and spread over very widebandwidth especially at higher voltages

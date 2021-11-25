@@ -1,0 +1,15 @@
+Experiment 1
+Probe the minimum carrier strength to achive the injection locking. The experiments are done in challenging environment
+Carrier gain: 0 to 90
+Rx centeral frequency:864.64Hz
+Rx parameters: filter BW 155kHz, frequency deviation 15kHz
+Rx position: 25m away from the backsplatter tag
+Carrier postion: 25m away from the backsplatter tag
+
+Experiment 2
+Investigate the injection locking stability in challenging environment
+People walking around for 30s
+
+Experiment 3
+Carrier postion: 60m away NLOS from the backsplatter tag
+Rx position: 10 20 30m away from the tag and the postions are in between the tag and carrier

@@ -1,0 +1,1 @@
+TDO located  half a meter from spectrum analyser. As we increase the strength of carrier signal from SDR, the TDO latches onto carrier signal, and the signal becomes sharper.

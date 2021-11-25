@@ -1,0 +1,1 @@
+Txgain 90, TD, does not receive as SNR too low

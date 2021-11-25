@@ -1,0 +1,15 @@
+Experiment 4: TDO modulated with a sinusoidal signal 250 mV p-P, 200kHz offset away. TDO located half meter away from the spectrum analyser.  SDR located in coffee room and we increase the strength of the carrier signal to find strength when it injection locks to the TDO.
+
+I1: No carrier
+I2: Carrier TXgain: 70
+I3: Carrier TXgain: 80
+I4: Carrier tx gain: 90
+I5: Carrier tx gain: 60 (close, not locking)
+i6: Carrier tx gain: 65 (close, not locking)
+
+Next are only SDR, no TDO
+i7: TX gain 65
+i8: TX gain 60
+i9: tx gain 70	
+i10: txgain 80
+i11: txgain 90

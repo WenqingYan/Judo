@@ -1,0 +1,23 @@
+210808 Experiment notes:
+
+Preparation experiments
+1. floor1 is the same floor and 20 m
+2. the same floor 45m
+3. Underground floor: verify the BER results we got several days ago
+
+Experiment 1
+Free running transmission
+Floor 1 to floor 4
+The same floor, 45m from the tag
+
+Experiment 2
+Injection locking transmission
+Floor 1 to floor 4
+Carrier location 15m away from the tag and tx gain 50
+
+Experiment 3
+Long run freq drift experiment, collect 500000
+long_collect_1. 865.59MHz
+long_collect_2. 865.75MHz
+With carrier on and do the two long run freq drift experiment
+

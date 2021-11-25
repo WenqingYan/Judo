@@ -1,0 +1,10 @@
+Reflection Amplifier
+Tx Gain: barely achive injection locking so it is not easy to receive the data.
+
+Setup:
+Rx -d1- Tag -d2- Carrier
+d1: 1m
+D2: 1m
+
+Bitrate: 3kbps
+Frequency offset: 1Mhz

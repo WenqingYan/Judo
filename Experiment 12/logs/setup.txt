@@ -1,0 +1,11 @@
+#Indoor range experiments
+Carrier is in Karin's office with amplifier about 30 dbm
+TDO in labs
+Rx: with external antennna and cc1310 lunch board
+
+#Positions:
+Meeting Room;
+Dilushi Office;
+Thiemo Office;
+3rd Floor;
+4th Floor;

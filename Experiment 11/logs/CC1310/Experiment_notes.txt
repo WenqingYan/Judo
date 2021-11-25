@@ -1,0 +1,2 @@
+Reflection Amplifier
+Tx Gain: barely achive injection locking so it is not easy to receive the data.
